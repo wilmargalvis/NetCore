@@ -1,0 +1,10 @@
+C:\Proyectos\NetCore\API Ress ASP.Net Core\Entidades Negocio\bin\Debug\netcoreapp3.1\Entidades Negocio.deps.json
+C:\Proyectos\NetCore\API Ress ASP.Net Core\Entidades Negocio\bin\Debug\netcoreapp3.1\Entidades Negocio.dll
+C:\Proyectos\NetCore\API Ress ASP.Net Core\Entidades Negocio\bin\Debug\netcoreapp3.1\Entidades Negocio.pdb
+C:\Proyectos\NetCore\API Ress ASP.Net Core\Entidades Negocio\obj\Debug\netcoreapp3.1\Entidades Negocio.csproj.AssemblyReference.cache
+C:\Proyectos\NetCore\API Ress ASP.Net Core\Entidades Negocio\obj\Debug\netcoreapp3.1\Entidades Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\NetCore\API Ress ASP.Net Core\Entidades Negocio\obj\Debug\netcoreapp3.1\Entidades Negocio.AssemblyInfoInputs.cache
+C:\Proyectos\NetCore\API Ress ASP.Net Core\Entidades Negocio\obj\Debug\netcoreapp3.1\Entidades Negocio.AssemblyInfo.cs
+C:\Proyectos\NetCore\API Ress ASP.Net Core\Entidades Negocio\obj\Debug\netcoreapp3.1\Entidades Negocio.csproj.CoreCompileInputs.cache
+C:\Proyectos\NetCore\API Ress ASP.Net Core\Entidades Negocio\obj\Debug\netcoreapp3.1\Entidades Negocio.dll
+C:\Proyectos\NetCore\API Ress ASP.Net Core\Entidades Negocio\obj\Debug\netcoreapp3.1\Entidades Negocio.pdb
